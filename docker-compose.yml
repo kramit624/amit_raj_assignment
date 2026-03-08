@@ -1,0 +1,29 @@
+# docker-compose.yml
+# -------------------
+# Usage:
+#   docker-compose up --build        # first run
+#   docker-compose up                # subsequent runs
+#   docker-compose down              # stop
+
+version: "3.9"
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: sales_dashboard_backend
+    ports:
+      - "8000:8000"
+    volumes:
+      # Bind-mount processed CSVs so they persist across container restarts
+      - ./data/processed:/app/data/processed
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 15s

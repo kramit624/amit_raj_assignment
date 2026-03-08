@@ -1,0 +1,237 @@
+order_id,customer_id,product,amount,order_date,status
+O10004,C1215,Running Shoes,,01/06/2023,CANCELLED
+O10156,C1254,Monitor 27inch,548.35,23/01/2023,refunded
+O10036,C1234,Air Purifier,665.97,22/01/2023,processing
+O10118,C1276,Wireless Mouse,75.58,10-06-2023,DONE
+O10121,C1189,Air Purifier,154.02,11-13-2022,pending
+O10100,C1274,Running Shoes,102.32,19/05/2022,CANCELLED
+O10145,,Monitor 27inch,1248.84,02-26-2023,completed
+O10083,C1056,Python Handbook,28.63,03-25-2023,Refunded
+O10126,C1029,Ergonomic Chair,540.6,07-21-2023,DONE
+O10030,C1066,Sticky Notes,8.76,11-28-2023,completed
+,,Yoga Mat,261.9728572895189,2023-05-10,pending
+O10220,,Desk Lamp,158.49,2022-06-19,Refunded
+O10056,C1241,Laptop Pro 15,1168.08,06-27-2023,refunded
+O10010,C1213,Notebook A5,24.89,06-01-2022,completed
+O10077,C1146,Air Purifier,398.61,05/09/2022,DONE
+O10210,C1219,Python Handbook,59.63,2022-01-03,completed
+O10104,C1178,Sticky Notes,9.1,22/05/2023,refunded
+O10125,C1276,Mechanical Keyboard,119.42,2022-02-15,Complete
+O10139,C1238,Ballpoint Pens 10x,,03/11/2022,pending
+O10213,C1271,Standing Desk,390.98,05-22-2022,Refunded
+O10072,C1240,Clean Code,117.29,09-01-2023,completed
+O10025,C1229,Coffee Maker,90.4,02-15-2023,pending
+O10021,C1114,Air Purifier,134.51,11/02/2023,refunded
+O10096,C1185,Protein Powder,236.95,2023-07-14,completed
+O10093,C1233,Notebook A5,26.23,02-23-2023,complete
+O10127,C1235,Air Purifier,140.95,09/08/2023,completed
+O10110,C1018,Ergonomic Chair,436.37,2022-04-15,refunded
+O10061,C1029,Wireless Mouse,116.47,2022-10-05,CANCELLED
+O10017,C1110,Clean Code,75.42,07-30-2023,completed
+O10132,C1234,Running Shoes,221.97,06/03/2023,pending
+O10119,C1196,USB-C Hub,91.02,2022-10-12,shipped
+O10228,C1151,Air Purifier,,10-11-2023,complete
+O10221,C1138,Wireless Mouse,105.53,2023-02-17,complete
+O10089,C1226,Yoga Mat,28.93,23/12/2022,pending
+O10081,C1268,Ballpoint Pens 10x,17.96,02/04/2023,shipped
+O10183,C1126,Standing Desk,1291.61,01/09/2023,Complete
+O10092,C1300,Desk Lamp,79.73,11/07/2022,completed
+O10207,C1236,Clean Code,24.64,05/11/2022,shipped
+O10031,C1161,Protein Powder,,2023-08-01,processing
+O10217,C1169,Laptop Pro 15,2673.56,10/05/2023,DONE
+O10079,C1148,Protein Powder,60.15,2022-04-22,done
+O10111,C1147,Ergonomic Chair,500.24,invalid-date,pending
+O10086,C1218,Desk Lamp,167.51,01-30-2022,cancelled
+O10116,C1101,USB-C Hub,154.35,2022-11-21,DONE
+O10085,C1055,Data Science 101,106.6,28/07/2023,canceled
+O10018,C1216,Data Science 101,73.55,,DONE
+O10117,C1083,Desk Lamp,45.44,01-18-2022,CANCELLED
+O10223,C1214,Sticky Notes,13.14,06-05-2023,complete
+,,Ergonomic Chair,69.70590133931246,2023-05-10,pending
+O10204,C1029,Coffee Maker,,08-18-2022,cancelled
+O10007,C1256,Monitor 27inch,800.07,16/06/2022,refunded
+O10174,C1234,USB-C Hub,137.28,10-10-2022,completed
+O10024,C1268,Desk Lamp,,12/12/2022,cancelled
+O10190,C1007,Running Shoes,221.14,02-28-2022,Refunded
+O10043,C1217,Sticky Notes,18.22,22/06/2023,DONE
+O10002,C1159,Wireless Mouse,107.0,invalid-date,completed
+O10095,C1035,Blender Pro,324.53,07-17-2023,completed
+O10112,C1136,Python Handbook,107.41,09-23-2023,cancelled
+O10058,C1104,Protein Powder,159.9,20/02/2023,canceled
+O10039,C1131,Clean Code,30.6,02-02-2022,completed
+O10103,C1059,Protein Powder,54.8,04-06-2022,done
+,,Ballpoint Pens 10x,394.91911859928,2023-05-10,pending
+O10185,C1128,Python Handbook,62.63,10-03-2022,completed
+O10135,C1178,Yoga Mat,81.3,22/11/2022,completed
+O10102,C1195,Blender Pro,,06/04/2022,CANCELLED
+O10168,C1185,Clean Code,55.73,15/01/2023,complete
+O10001,C1269,Running Shoes,385.89,02/06/2023,cancelled
+O10184,C1034,Protein Powder,61.51,2022-10-19,pending
+O10200,C1104,Coffee Maker,,2023-07-01,completed
+O10178,C1159,Notebook A5,6.7,12/12/2022,Complete
+O10162,C1117,Wireless Mouse,24.58,17/03/2022,Done
+O10046,C1276,Blender Pro,131.66,22/02/2022,completed
+O10124,C1203,USB-C Hub,45.15,05-27-2023,pending
+O10109,C1073,Ergonomic Chair,1911.08,2022-01-10,completed
+O10173,C1063,Python Handbook,117.2,07-26-2022,CANCELLED
+O10227,C1169,Python Handbook,135.44,09/08/2022,cancelled
+O10044,C1195,Desk Lamp,79.34,11-04-2022,complete
+O10011,C1169,Yoga Mat,54.54,02-25-2023,Complete
+O10137,C1083,Python Handbook,29.66,2022-04-03,refunded
+O10196,C1165,Ballpoint Pens 10x,26.88,2023-02-28,pending
+O10069,C1073,Air Purifier,130.66,09-04-2023,Done
+O10205,C1216,Ballpoint Pens 10x,8.16,01-20-2023,processing
+O10148,C1291,Clean Code,,04-29-2023,canceled
+O10158,C1169,Data Science 101,123.34,25/05/2022,canceled
+O10157,C1234,Laptop Pro 15,5446.13,2023-08-05,Refunded
+O10066,C1266,Sticky Notes,15.63,03-29-2022,canceled
+O10023,C1137,Ergonomic Chair,940.89,26/04/2022,complete
+O10028,C1131,Coffee Maker,304.24,2023-12-08,refunded
+O10067,C1121,Clean Code,58.49,03/02/2023,completed
+O10040,C1146,Standing Desk,344.38,,complete
+,,Monitor 27inch,310.95717149744934,2023-05-10,pending
+O10009,C1213,Running Shoes,117.44,04/09/2023,canceled
+O10129,C1215,Blender Pro,,25/07/2022,refunded
+O10229,C1216,Ballpoint Pens 10x,8.5,21/07/2023,Complete
+O10147,C1266,Notebook A5,17.89,02/02/2023,Refunded
+O10062,C1067,Wireless Mouse,28.72,08-01-2022,Done
+O10038,C1066,Laptop Pro 15,4746.73,29/06/2023,canceled
+O10084,C1279,Standing Desk,,12-18-2022,pending
+O10078,C1117,Blender Pro,298.13,07-02-2023,DONE
+O10142,C1165,USB-C Hub,,2022-03-08,complete
+O10144,C1030,Air Purifier,272.5,09/10/2022,pending
+O10214,C1169,Monitor 27inch,959.72,2022-12-17,Done
+O10216,C1277,Desk Lamp,179.69,08-06-2023,Done
+O10165,C1215,Sticky Notes,7.46,2022-04-09,processing
+O10151,C1067,Ergonomic Chair,1722.29,10/07/2023,completed
+O10120,C1063,Ergonomic Chair,459.43,11-14-2022,canceled
+O10194,C1027,Yoga Mat,51.33,11/11/2022,Refunded
+O10187,C1221,Clean Code,79.44,16/04/2023,refunded
+O10059,C1073,USB-C Hub,49.84,06/04/2022,processing
+O10042,C1059,Ergonomic Chair,1912.11,04/11/2022,pending
+O10000,C1112,Desk Lamp,135.58,2022-07-14,shipped
+O10032,C1160,Mechanical Keyboard,485.66,04-30-2022,Complete
+O10176,C1067,Standing Desk,1165.75,25/02/2023,Complete
+O10202,C1131,Ballpoint Pens 10x,7.65,02/11/2022,shipped
+O10020,C1160,Running Shoes,114.81,10-30-2023,completed
+O10016,C1238,Protein Powder,180.08,13/02/2022,completed
+O10198,C1297,Yoga Mat,25.29,05/01/2022,pending
+O10071,C1203,Running Shoes,196.63,22/03/2023,Complete
+O10222,C1115,USB-C Hub,44.29,05-25-2023,completed
+O10054,C1119,USB-C Hub,47.27,2023-02-27,canceled
+O10005,C1059,Monitor 27inch,1366.46,18/01/2023,done
+O10048,C1060,Standing Desk,753.41,12-14-2023,Done
+O10208,C1168,Ergonomic Chair,531.8,2022-10-17,Complete
+O10065,C1194,Monitor 27inch,869.2,01-31-2022,complete
+O10134,C1034,Ergonomic Chair,459.95,03-22-2023,canceled
+O10022,C1233,Running Shoes,291.12,19/10/2022,processing
+O10123,C1179,Clean Code,24.35,10/12/2022,completed
+O10047,C1060,Mechanical Keyboard,549.53,02/08/2022,completed
+O10019,C1137,Standing Desk,623.87,02-21-2023,Complete
+,,Desk Lamp,352.07250205953494,2023-05-10,pending
+O10114,C1043,USB-C Hub,139.09,2023-12-09,refunded
+O10160,C1034,Clean Code,29.32,31/01/2023,pending
+O10049,C1215,Yoga Mat,80.99,12/11/2022,Complete
+O10050,C1164,Notebook A5,11.33,15/01/2023,canceled
+O10094,C1121,Mechanical Keyboard,,invalid-date,canceled
+O10152,C1062,Monitor 27inch,301.37,12-06-2022,pending
+O10113,C1282,Ergonomic Chair,1951.06,26/12/2022,pending
+O10167,C1298,Desk Lamp,182.85,29/04/2022,Complete
+O10218,C1218,Clean Code,46.95,17/11/2023,completed
+O10201,C1066,Ballpoint Pens 10x,17.9,08-20-2022,refunded
+O10169,C1169,Blender Pro,82.58,06-04-2022,completed
+O10209,C1160,Clean Code,94.21,22/12/2023,completed
+O10212,C1016,Clean Code,48.4,10/02/2022,Refunded
+O10180,C1189,Python Handbook,134.84,05-12-2023,completed
+O10150,C1119,Desk Lamp,123.3,2023-08-29,done
+O10171,C1085,Notebook A5,16.54,22/03/2022,completed
+O10012,C1047,Wireless Mouse,78.41,10/11/2023,Refunded
+O10164,C1173,Desk Lamp,39.2,14/04/2022,cancelled
+O10130,C1142,Blender Pro,171.23,2023-07-14,DONE
+O10060,C1226,Laptop Pro 15,4199.07,23/10/2023,completed
+O10099,C1056,Python Handbook,98.21,30/06/2023,pending
+O10153,C1104,Yoga Mat,,06-01-2022,pending
+O10057,,Air Purifier,167.32,04-09-2022,cancelled
+O10186,C1194,Laptop Pro 15,2135.27,2023-09-08,refunded
+O10026,C1128,Data Science 101,,2023-01-28,CANCELLED
+O10225,C1271,Standing Desk,962.35,12-30-2022,refunded
+O10091,C1300,Ergonomic Chair,926.7,12/08/2023,Complete
+O10008,C1034,Ballpoint Pens 10x,27.1,2023-05-02,completed
+O10193,C1059,Sticky Notes,7.02,09-22-2022,pending
+O10052,C1078,Data Science 101,109.84,21/09/2022,Complete
+O10226,C1252,Standing Desk,,18/06/2022,DONE
+O10015,C1034,Sticky Notes,13.03,2022-10-22,processing
+O10203,C1223,Air Purifier,513.44,17/05/2023,pending
+O10064,C1258,USB-C Hub,51.4,11/04/2022,completed
+O10192,C1181,Python Handbook,127.64,19/11/2023,pending
+O10041,C1176,Wireless Mouse,59.68,13/08/2023,Refunded
+O10068,,Running Shoes,118.62,2022-05-16,complete
+O10224,C1224,Wireless Mouse,86.02,07-28-2023,done
+O10014,C1066,Data Science 101,120.16,2023-12-23,Complete
+O10013,C1102,Sticky Notes,11.45,17/09/2023,canceled
+O10037,C1090,Protein Powder,252.53,2023-06-26,canceled
+O10097,C1173,Data Science 101,160.93,27/09/2022,completed
+O10006,C1075,Monitor 27inch,299.01,2022-02-09,Complete
+O10027,C1073,Mechanical Keyboard,345.64,2023-12-11,completed
+O10133,C1004,Wireless Mouse,116.35,19/12/2023,completed
+O10003,C1269,Clean Code,89.03,,processing
+O10108,C1073,Running Shoes,473.69,2023-11-03,completed
+O10073,C1170,Coffee Maker,279.7,27/03/2023,pending
+O10136,C1047,Mechanical Keyboard,476.12,23/04/2023,processing
+O10199,C1131,Notebook A5,12.99,22/09/2023,Done
+O10106,,Desk Lamp,136.0,07-27-2022,refunded
+O10189,C1151,Notebook A5,,10-11-2022,CANCELLED
+O10170,C1063,Sticky Notes,8.59,2023-07-21,shipped
+O10146,C1014,Air Purifier,332.39,10-08-2023,Done
+O10149,C1282,Data Science 101,32.54,08-13-2022,Done
+O10122,C1221,Ergonomic Chair,1281.29,06-20-2023,CANCELLED
+O10143,C1004,Yoga Mat,31.72,06-22-2022,Done
+O10090,C1274,Running Shoes,225.95,2022-11-17,completed
+O10029,C1210,Data Science 101,139.04,13/09/2023,processing
+O10197,C1160,Yoga Mat,114.33,27/05/2022,pending
+O10082,C1057,Notebook A5,5.84,04-29-2022,refunded
+O10163,C1073,Sticky Notes,13.69,09-01-2023,completed
+,,Desk Lamp,370.6374376365333,2023-05-10,pending
+O10138,C1257,Monitor 27inch,,2022-12-02,canceled
+O10128,C1164,Ballpoint Pens 10x,9.66,22/04/2023,refunded
+O10045,C1254,Air Purifier,303.12,2023-02-02,Refunded
+O10166,C1131,Wireless Mouse,76.28,11-09-2023,cancelled
+O10181,C1131,USB-C Hub,90.18,invalid-date,cancelled
+O10033,C1268,Blender Pro,295.81,,complete
+O10172,C1027,Ballpoint Pens 10x,17.91,04/05/2022,pending
+O10088,C1290,Sticky Notes,15.13,27/04/2022,Complete
+O10175,C1059,Mechanical Keyboard,526.97,2022-06-03,completed
+O10074,C1121,Python Handbook,108.36,23/11/2022,Complete
+O10211,C1124,Notebook A5,5.25,14/04/2022,complete
+O10159,C1050,Desk Lamp,136.64,2023-04-03,canceled
+O10053,C1165,Protein Powder,234.54,07-08-2022,completed
+O10051,C1241,Clean Code,112.77,2022-10-30,canceled
+O10055,C1256,Laptop Pro 15,1184.16,09-25-2023,Complete
+O10161,C1135,Coffee Maker,346.5,08-15-2023,canceled
+O10141,C1216,Data Science 101,115.16,12-04-2023,completed
+O10188,C1073,Monitor 27inch,789.98,07-29-2023,refunded
+O10182,C1160,Wireless Mouse,76.95,2023-12-23,complete
+O10080,C1169,Wireless Mouse,108.48,06/12/2022,completed
+O10140,,Coffee Maker,183.0,07/04/2022,pending
+O10219,C1234,Data Science 101,146.83,06-02-2022,completed
+O10215,C1069,Coffee Maker,357.61,2023-10-27,completed
+O10076,C1185,Desk Lamp,162.36,2023-12-27,refunded
+O10131,,Sticky Notes,4.4,2022-12-10,Done
+O10191,C1136,Laptop Pro 15,4137.27,05/03/2023,completed
+O10179,C1291,Standing Desk,964.31,30/03/2023,DONE
+O10154,C1277,Ballpoint Pens 10x,29.02,12-23-2023,completed
+O10105,C1203,Ergonomic Chair,1418.73,,complete
+O10035,C1223,Wireless Mouse,90.52,02/02/2022,pending
+O10034,C1224,Laptop Pro 15,2627.85,,done
+O10206,C1101,Wireless Mouse,27.19,02-19-2022,complete
+O10115,C1168,Ballpoint Pens 10x,8.22,03/09/2022,canceled
+O10075,C1056,Data Science 101,130.74,2023-01-09,cancelled
+O10087,C1217,Coffee Maker,,2022-08-08,completed
+O10101,C1179,Ergonomic Chair,1010.25,24/11/2023,CANCELLED
+O10070,,Air Purifier,260.87,08-09-2023,Done
+O10063,C1066,Desk Lamp,163.16,11-25-2023,pending
+O10195,C1213,Running Shoes,97.39,10-12-2023,completed
+O10177,C1208,Wireless Mouse,100.93,09/02/2022,Refunded
+O10155,C1270,Ergonomic Chair,2032.44,17/10/2023,pending
+O10107,C1025,Clean Code,26.35,01-16-2023,pending
+O10098,C1233,Data Science 101,112.45,12-29-2023,pending
