@@ -8,7 +8,7 @@
 import axios from "axios";
 
 const client = axios.create({
-  baseURL: "http://localhost:8000",
+  baseURL: "https://sales-dashboard-backend-hls4.onrender.com",
   timeout: 8000,
 });
 
