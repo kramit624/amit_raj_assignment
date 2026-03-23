@@ -32,7 +32,8 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
-        "https://amit-raj-assignment-9dtn92q21.vercel.app",
+        "https://amit-raj-assignment.vercel.app",
+        "https://amit-raj-assignment-gjs9987gs.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
